@@ -1,8 +1,8 @@
 <img align="" alt="Spider-man" width="1200" src="https://i.pinimg.com/originals/ba/ef/3d/baef3d95268c317b03f6f71a3c9d0b6f.gif">
 <h1 align="center">I'm Dipta Paul</h1>
-<h3 align="center">An aspirants developer.</h3>
+<h3 align="center">An aspirant developer.</h3>
 
-- 📫**pauldipta007@gmail.com**
+📫**pauldipta007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
