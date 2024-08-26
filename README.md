@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipta Paul</h1>
 <h3 align="center">A aspirants developer.</h3>
 
-- 📫 How to reach me **pauldipta007@gmail.com**
+- 📫**pauldipta007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
