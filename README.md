@@ -1,4 +1,4 @@
-<img align="top" alt="Coding" width="400" src="https://media3.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif?cid=6c09b952vd2ghxm6l3y92w5yqjmzfcokpe5x0h1p0qxdoqw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
+<img align="top centre" alt="Coding" width="400" src="https://media3.giphy.com/media/1qErVv5GVUac8uqBJU/giphy.gif?cid=6c09b952vd2ghxm6l3y92w5yqjmzfcokpe5x0h1p0qxdoqw8&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g">
 <h1 align="center">Hi 👋, I'm Dipta Paul</h1>
 <h3 align="center">A aspirants developer.</h3>
 
